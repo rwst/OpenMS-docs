@@ -43,7 +43,11 @@ For any questions, drop us a ping in [OpenMS Gitter](https://gitter.im/OpenMS/Op
 	Example of these are present in documentation, please follow them.
 11. Always specify lexers for code blocks.
 12. Format keyboard strokes using `<kbd>qwerty-keyboard-button</kbd>`, as an example, please see [this](../docs/tutorials/TOPP/hotkeys-table.md) file.
-13. Be nice, polite, and respectful.
+13. Write math formulae using Sphinx mathjax, example:
+```
+:math:`a^2 + b^2 = c^2`
+```
+14. Be nice, polite, and respectful.
 
 ### Naming files
 
